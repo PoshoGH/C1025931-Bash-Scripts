@@ -15,4 +15,5 @@ sudo -e apt-get
 echo "Installing PHP"
 sudo -e apt-get install php7.0
 
+echo "LAMP Installed!"
 
